@@ -74,3 +74,8 @@ You can contribute by:
 
 Bug reports, feature suggestions, documentation improvements, and engineering
 calculation examples are also welcome through GitHub Issues.
+## 📋 How to Contribute
+
+```bash
+git clone https://github.com/Innovative-Manish/manishmandal.git
+cd manishmandal
